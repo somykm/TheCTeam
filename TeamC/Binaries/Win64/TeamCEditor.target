@@ -28,67 +28,19 @@
 			"Type": "Executable"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/machine-learning-remote-ue4/Binaries/Win64/UE4Editor-MachineLearningBase.dll",
+			"Path": "$(ProjectDir)/Plugins/VaRest/Binaries/Win64/UE4Editor-VaRest.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/machine-learning-remote-ue4/Binaries/Win64/UE4Editor-MachineLearningBase.pdb",
+			"Path": "$(ProjectDir)/Plugins/VaRest/Binaries/Win64/UE4Editor-VaRest.pdb",
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/machine-learning-remote-ue4/Binaries/Win64/UE4Editor-MachineLearningRemote.dll",
+			"Path": "$(ProjectDir)/Plugins/VaRest/Binaries/Win64/UE4Editor-VaRestEditor.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/machine-learning-remote-ue4/Binaries/Win64/UE4Editor-MachineLearningRemote.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/machine-learning-remote-ue4/Binaries/Win64/UE4Editor-MLProcess.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/machine-learning-remote-ue4/Binaries/Win64/UE4Editor-MLProcess.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SocketIOClient.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SocketIOClient.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SIOJson.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SIOJson.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SocketIOLib.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SocketIOLib.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-CoreUtility.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-CoreUtility.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SIOJEditorPlugin.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SIOJEditorPlugin.pdb",
+			"Path": "$(ProjectDir)/Plugins/VaRest/Binaries/Win64/UE4Editor-VaRestEditor.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -2304,11 +2256,7 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/machine-learning-remote-ue4/Binaries/Win64/UE4Editor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor.modules",
+			"Path": "$(ProjectDir)/Plugins/VaRest/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -2746,11 +2694,7 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/machine-learning-remote-ue4/MachineLearningRemote.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/socketio-client-ue4/SocketIOClient.uplugin",
+			"Path": "$(ProjectDir)/Plugins/VaRest/VaRest.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -3176,10 +3120,6 @@
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/XGEController.uplugin",
 			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
-			"Type": "NonUFS"
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/svn/Win64/apr_crypto_openssl-1.dll",
@@ -4371,6 +4311,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
 			"Type": "NonUFS"
 		},
 		{

@@ -1,14 +1,8 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Source\\TeamC\\TeamC.Build.cs",
-		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Plugins\\machine-learning-remote-ue4\\Source\\MachineLearningBase\\MachineLearningBase.Build.cs",
-		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Plugins\\machine-learning-remote-ue4\\Source\\MachineLearningRemote\\MachineLearningRemote.Build.cs",
-		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Plugins\\machine-learning-remote-ue4\\Source\\MLProcess\\MLProcess.Build.cs",
-		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Plugins\\socketio-client-ue4\\Source\\SocketIOLib\\SocketIOLib.Build.cs",
-		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Plugins\\socketio-client-ue4\\Source\\SIOJEditorPlugin\\SIOJEditorPlugin.Build.cs",
-		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Plugins\\socketio-client-ue4\\Source\\SIOJson\\SIOJson.Build.cs",
-		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Plugins\\socketio-client-ue4\\Source\\SocketIOClient\\SocketIOClient.Build.cs",
-		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Plugins\\socketio-client-ue4\\Source\\CoreUtility\\CoreUtility.Build.cs",
+		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Plugins\\VaRest\\Source\\VaRest\\VaRest.Build.cs",
+		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Plugins\\VaRest\\Source\\VaRestEditor\\VaRestEditor.Build.cs",
 		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Source\\TeamC.Target.cs",
 		"C:\\Users\\rebel\\Documents\\GitHub\\TheCTeam\\TeamC\\Source\\TeamCEditor.Target.cs"
 	],
